@@ -30,4 +30,9 @@ typedef struct{
     unsigned int data_register_unused : 24;
 }PARALLEL_PORT_DIR;
 
+// Create two additonal 32 bit Structs
+// initialize both pointers
+//edit the dire input/ouput #defines
+// remove second struct and create two instances of the previous
+
 #endif //POORMANS_ALU_REGISTER_MODULE_H

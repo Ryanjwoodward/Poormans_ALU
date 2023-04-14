@@ -1,0 +1,3 @@
+C:/Users/Ryan/Desktop/Poormans_ALU/cmake-build-debug/CMakeFiles/Poormans_ALU.dir
+C:/Users/Ryan/Desktop/Poormans_ALU/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ryan/Desktop/Poormans_ALU/cmake-build-debug/CMakeFiles/rebuild_cache.dir

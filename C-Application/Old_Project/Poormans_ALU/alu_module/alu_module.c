@@ -29,7 +29,6 @@ int readUserInput();
 void startHardware();
 void closeHardware();
 void errorCheck(int userVariable, int lowerBound, int upperBound);
-void writeToHardware(int first_4b_operand, int second_4b_operand);
 
 
 //----------------------------------
