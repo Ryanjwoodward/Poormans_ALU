@@ -67,7 +67,6 @@ void closeHardware(){
  * @return inputted value (userVariable)
  */
 int readUserInput(){
-
     int userVariable = 0;
     printf("\t Enter a 4-bit Value (15 or Less): ");
     scanf("%d",&userVariable);
@@ -83,12 +82,29 @@ int readUserInput(){
  * @param upperBound
  */
 void errorCheck(int userVariable, int lowerBound, int upperBound){
-
+    // Pure C - Code for the Assembly Below
+   /*
     if(userVariable > upperBound){
         userVariable = 15;
     }else if(userVariable < lowerBound){
         userVariable = 0;
     }
+    */
+
+    asm(
+            "cmp %0, %2\n"         // Compare userVariable and upperBound
+            "ble .check_lower\n"   // Jump to .check_lower if userVariable <= upperBound
+            "mov %0, #15\n"        // userVariable = 15
+            "b .exit_check\n"      // Jump to .exit_check
+            ".check_lower:\n"
+            "cmp %0, %1\n"         // Compare userVariable and lowerBound
+            "bge .exit_check\n"    // Jump to .exit_check if userVariable >= lowerBound
+            "mov %0, #0\n"         // userVariable = 0
+            ".exit_check:\n"
+            : "+r"(userVariable)   // Output: write to and read from userVariable
+            : "r"(lowerBound), "r"(upperBound) // Inputs: lowerBound, upperBound
+            : "cc"                 // Clobbered registers: condition code flags
+            );
 }
 
 /**

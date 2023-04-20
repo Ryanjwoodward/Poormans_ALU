@@ -1,5 +1,5 @@
 #
-TARGET = poormans_alu_milestone5a
+TARGET = poormans_alu_milestone5b
 ALT_DEVICE_FAMILY ?= soc_cv_av
 SOCEDS_ROOT ?= $(SOCEDS_DEST_ROOT)
 HWLIBS_ROOT = $(SOCEDS_ROOT)/ip/altera/hps/altera_hps/hwlib
