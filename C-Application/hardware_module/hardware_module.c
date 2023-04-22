@@ -110,10 +110,21 @@ void setupParallelPort(void *virtualBase, int fd){
  */
 void writeToParallelPort(int first_4b_operand, int second_4b_operand){
 
-    jp1_port->data_register_operand_1 = first_4b_operand;
+    /*jp1_port->data_register_operand_1 = first_4b_operand;
     jp1_port->data_register_operand_2 = second_4b_operand;
-    printf("\nWrite to Parallel Port %d and %d\n", first_4b_operand, second_4b_operand);
-    printf("READ Parallel Ports: First: %d and Second: %d", jp1_port->data_register_operand_1, jp1_port->data_register_operand_2);
-}
+*/
+    unsigned int jp1_address = jp1_port;
 
+    asm volatile(
+            "ldr r1, [%[jp1_address]]     \n"   // Load the value at the jp1_address into r1
+            "str %[first_operand], [r1]  #0\n"   // Store the first operand to the lower 4 bits of the data register 1
+            "str %[second_operand], [r1] #1\n"   // Store the second operand to the upper 4 bits of the data register 1
+            :
+            : [jp1_address] "r" (&jp1_address), [first_operand] "r" (first_4b_operand), [second_operand] "r" (second_4b_operand)
+            : "r1"
+    );
+
+   printf("\nWrite to Parallel Port %d and %d\n\n", first_4b_operand, second_4b_operand);
+   printf("READ Parallel Ports: First: %d and Second: %d", jp1_port->data_register_operand_1, jp1_port->data_register_operand_2);
+}
 
