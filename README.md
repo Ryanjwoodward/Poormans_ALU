@@ -8,7 +8,7 @@ Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/bcb39da6-1cc7-486e-80b0-a32cc0face32" width="75"/>
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/2a9d07e4-6629-414f-8a71-7a494f231312" width="75"/>
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/ad3afe01-2612-4314-9608-ed29122d643b" width="75"/>
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/9902e83a-7ca8-4780-801e-d0462fc9acfb" width="75"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/1d02a86c-f6cc-4313-bf02-4d42a09a54d6" width="75"/>
 
 >
   - C Programming Language
@@ -26,6 +26,7 @@ https://docs.google.com/document/d/1ZaKlRqTRnHX_WhcK3Or9eSnOeIX7HebnkndpHCdt8sQ/
 #### Circuits
 
 #### Diagrams
+
 
 #### Screenshots
 
