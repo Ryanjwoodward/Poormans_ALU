@@ -5,9 +5,9 @@ Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
 
 #### Technologies
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/4411e528-206b-4ac2-bd0e-266ff77cbbf0" width="75"/>
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/bcb39da6-1cc7-486e-80b0-a32cc0face32" width="75"/>
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/2a9d07e4-6629-414f-8a71-7a494f231312" width="75"/>
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/ad3afe01-2612-4314-9608-ed29122d643b" width="75"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/bcb39da6-1cc7-486e-80b0-a32cc0face32" width="90"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/2a9d07e4-6629-414f-8a71-7a494f231312" width="90"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/ad3afe01-2612-4314-9608-ed29122d643b" width="90"/>
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/1d02a86c-f6cc-4313-bf02-4d42a09a54d6" width="75"/>
 
 >
