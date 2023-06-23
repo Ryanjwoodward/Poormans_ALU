@@ -24,7 +24,7 @@ Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
 
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/28dca8be-1ff0-4885-b82d-2e216b70d98b" width="35"/>https://docs.google.com/document/d/1ZaKlRqTRnHX_WhcK3Or9eSnOeIX7HebnkndpHCdt8sQ/edit?usp=sharing
 
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/9b1b3713-76c6-4f4e-bd28-394947f58255" width="100"/> 
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/9b1b3713-76c6-4f4e-bd28-394947f58255" width="200"/> 
 
 ### Circuits
 
