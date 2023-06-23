@@ -21,7 +21,8 @@ Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
   - Linaro Linux
   - Quartus Software
 #### Documentation
-https://docs.google.com/document/d/1ZaKlRqTRnHX_WhcK3Or9eSnOeIX7HebnkndpHCdt8sQ/edit?usp=sharing
+
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/28dca8be-1ff0-4885-b82d-2e216b70d98b" width="75"/> https://docs.google.com/document/d/1ZaKlRqTRnHX_WhcK3Or9eSnOeIX7HebnkndpHCdt8sQ/edit?usp=sharing
 
 #### Circuits
 
@@ -32,8 +33,8 @@ https://docs.google.com/document/d/1ZaKlRqTRnHX_WhcK3Or9eSnOeIX7HebnkndpHCdt8sQ/
 
 #### Demonstrations
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/VwLckqfPL-Y
-><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/VwLckqfPL-Y
+
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/VwLckqfPL-Y
 
-
+><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/VwLckqfPL-Y
 
