@@ -68,6 +68,11 @@ __K-Maps__
 __Boolean Expression__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/56fb7192-231c-4492-afc3-4659e95ddcb9" width="400"/>
 
+### Poormans ALU Circuit
+__Truth Table__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/b5622b02-7928-43b7-a30d-f7efb26d5c29" width="500"/>
+
+
 ### Screenshots
 ***
 #### System Design
