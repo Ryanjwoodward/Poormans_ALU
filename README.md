@@ -44,16 +44,16 @@ __Boolean Expression__
 
 ### Boolean Logic Unit (AND)
 __Schematic Capture__
-><img src="" width="400"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/ca2c9ce1-2657-47af-8f8d-4ee42b95b7ae" width="400"/>
 
 __Truth Table__
-><img src="" width="400"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/15044ae8-e916-4b19-8b60-0bbbfd68f1ac" width="400"/>
 
 __K-Maps__
-><img src="" width="400"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/62865f2e-f75a-45dc-a7d0-e3e8ea16596a" width="400"/>
 
 __Boolean Expression__
-><img src="" width="400"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/3bf94e12-44f3-46cf-9c5a-06c6174aaa13" width="400"/>
 
 ### Quad 2:1 Multiplexer
 __Schematic Capture__
