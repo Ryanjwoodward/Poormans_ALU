@@ -42,6 +42,9 @@ __K-Maps__
 __Boolean Expression__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/7afbd475-bc25-4fdf-9505-6b58de963fc1" width="400"/>
 
+__VHDL Circuit__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/08a42f6f-0015-4f51-aa02-62dd4b7f522e" width="400"/>
+
 ### Boolean Logic Unit (AND)
 __Schematic Capture__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/ca2c9ce1-2657-47af-8f8d-4ee42b95b7ae" width="400"/>
@@ -67,6 +70,9 @@ __K-Maps__
 
 __Boolean Expression__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/56fb7192-231c-4492-afc3-4659e95ddcb9" width="400"/>
+
+__VHDL Circuit__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/d6a2593b-a619-47cf-a896-e7405938182f" width="400"/>
 
 ### Poormans ALU Circuit
 __Truth Table__
