@@ -33,17 +33,18 @@ Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
 ### Screenshots
 ***
 #### System Design
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/e30d0c7f-c11c-4ff0-9530-29350e97d2ad" width="300"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/e30d0c7f-c11c-4ff0-9530-29350e97d2ad" width="500"/>
 
 #### Application Design
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/8834c7c9-06fa-4500-b732-ab2330025986" width="300"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/8834c7c9-06fa-4500-b732-ab2330025986" width="500"/>
 
 ### Demonstrations
 ***
- __Full Demo:__ https://youtu.be/qGbF3a6-ZJk
+ ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/qGbF3a6-ZJk
 
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Project Presentation:__ https://youtu.be/rl7aGIHYdLI
 
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Brief Demo:__ https://youtu.be/80nXXKe2rMk
 
 ### Truth Tables, K-maps, and Boolean Expressions
+***
