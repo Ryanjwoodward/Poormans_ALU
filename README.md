@@ -31,16 +31,16 @@ Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
 ***
 #### Four Bit Adder-Subtractor (ALU)
 __Schematic Capture__
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/aa905ba3-7379-47c6-a8a7-15e85c7e4fe9" width="50"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/aa905ba3-7379-47c6-a8a7-15e85c7e4fe9" width="400"/>
 
 __Truth Table__
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/28333d4a-626f-4f28-8b71-3bbfb488eed7" width="50"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/28333d4a-626f-4f28-8b71-3bbfb488eed7" width="400"/>
 
 __K-Maps__
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/f69abc2f-0968-4f54-bae3-5a36d138de68" width="50"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/f69abc2f-0968-4f54-bae3-5a36d138de68" width="400"/>
 
 __Boolean Expression__
-><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/7afbd475-bc25-4fdf-9505-6b58de963fc1" width="50"/>
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/7afbd475-bc25-4fdf-9505-6b58de963fc1" width="400"/>
 
 
 
