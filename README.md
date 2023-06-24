@@ -2,9 +2,8 @@
 ***
 Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
 > This project...
-
-### Technologies
 ***
+### Technologies
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/4411e528-206b-4ac2-bd0e-266ff77cbbf0" width="75"/>
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/bcb39da6-1cc7-486e-80b0-a32cc0face32" width="90"/>
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/2a9d07e4-6629-414f-8a71-7a494f231312" width="90"/>
@@ -21,14 +20,15 @@ Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
   - DE10-Standard  (Cyclone 5 FGPA)
   - Linaro Linux
   - Quartus Software
-### Documentation
 ***
+### Documentation
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/28dca8be-1ff0-4885-b82d-2e216b70d98b" width="35"/>https://docs.google.com/document/d/1ZaKlRqTRnHX_WhcK3Or9eSnOeIX7HebnkndpHCdt8sQ/edit?usp=sharing
 
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/9b1b3713-76c6-4f4e-bd28-394947f58255" width="200"/> 
 
-### Circuits
 ***
+### Circuits
+
 ### Four Bit Adder-Subtractor (ALU)
 __Schematic Capture__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/aa905ba3-7379-47c6-a8a7-15e85c7e4fe9" width="400"/>
@@ -72,17 +72,18 @@ __Boolean Expression__
 __Truth Table__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/b5622b02-7928-43b7-a30d-f7efb26d5c29" width="500"/>
 
-
-### Screenshots
 ***
+### Screenshots
+
 #### System Design
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/e30d0c7f-c11c-4ff0-9530-29350e97d2ad" width="500"/>
 
 #### Application Design
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/8834c7c9-06fa-4500-b732-ab2330025986" width="500"/>
 
-### Demonstrations
 ***
+### Demonstrations
+
  ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/qGbF3a6-ZJk
 
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Project Presentation:__ https://youtu.be/rl7aGIHYdLI
