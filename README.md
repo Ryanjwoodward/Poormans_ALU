@@ -58,6 +58,10 @@ __K-Maps__
 __Boolean Expression__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/3bf94e12-44f3-46cf-9c5a-06c6174aaa13" width="400"/>
 
+__VHDL Circuit__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/48d3bdf2-55b6-4950-b40d-8cbb324191e8" width="400"/>
+
+
 ### Quad 2:1 Multiplexer
 __Schematic Capture__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/7db29061-5086-4d86-866b-b1c8580d679c" width="400"/>
@@ -77,6 +81,15 @@ __VHDL Circuit__
 ### Poormans ALU Circuit
 __Truth Table__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/b5622b02-7928-43b7-a30d-f7efb26d5c29" width="500"/>
+
+__VHDL Circuit__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/f71b609d-9194-4d3f-be00-063f2fccc415" width="500"/>
+
+
+### Circuits Not Shown:
+  - BCD to Seven Segment Decoder
+  - Verilog Versions of the above Circuits
+  - Other Architecture Styles of Circuits (Behavioral, Dataflow, Structural)
 
 ***
 ### Screenshots
