@@ -1,7 +1,9 @@
 # Poormans_ALU
 ***
 Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
-> This project...
+> This project is an embedded systems project that is essentially a simplfied Arithmetic Logic Unit (ALU). The project consists of a C application that runs in the DE10 Standards HPS and interacts with the FPGA via GPIO pins. The user enters input via a keyboard and slide switches on the board. Supported functions are addition, subtraction, and logical AND. The inputs are two 4-bit numbers. Included circuits are a Quad 2:1 MUX, 4-bit adder-subtractor, 4-bit AND, BCD to seven segment decoder, and the whole ALU circuit.
+
+> For this Project I wrote each of the required circuits (based upon my design) in VHDL and Verilog. I leveraged each of the Architecture models, namely Data flow, Structural, and Behavioral. I learned in-line ARM assembly and included that in my C application. I leveraged IP cores from Intel's Quartus software. Aside extensive design including schematic capture, boolean expression, K-maps, and truth tables I performed extensive testing using waveform analysis to verify the function of my circuits and application.
 ***
 ### Technologies
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/4411e528-206b-4ac2-bd0e-266ff77cbbf0" width="75"/>
