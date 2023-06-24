@@ -29,7 +29,7 @@ Poorman's Arithmetic Logic Unit (ALU) Embedded Systems Project
 
 ### Circuits
 ***
-#### Four Bit Adder-Subtractor (ALU)
+### Four Bit Adder-Subtractor (ALU)
 __Schematic Capture__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/aa905ba3-7379-47c6-a8a7-15e85c7e4fe9" width="400"/>
 
@@ -42,35 +42,31 @@ __K-Maps__
 __Boolean Expression__
 ><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/7afbd475-bc25-4fdf-9505-6b58de963fc1" width="400"/>
 
-
-
-
-
-
-
-
-
-
-
-
-#### Boolean Logic Unit (AND)
+### Boolean Logic Unit (AND)
 __Schematic Capture__
+><img src="" width="400"/>
 
 __Truth Table__
+><img src="" width="400"/>
 
 __K-Maps__
-
-__Quad 2:1 Multiplexer__
-
-#### Boolean Logic Unit
-__Schematic Capture__
-
-__Truth Table__
-
-__K-Maps__
+><img src="" width="400"/>
 
 __Boolean Expression__
+><img src="" width="400"/>
 
+### Quad 2:1 Multiplexer
+__Schematic Capture__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/7db29061-5086-4d86-866b-b1c8580d679c" width="400"/>
+
+__Truth Table__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/cc4141ff-6487-4f19-a028-f8e48c4e032c" width="400"/>
+
+__K-Maps__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/33db9748-74c6-49f7-91f5-911aa3e3e11d" width="400"/>
+
+__Boolean Expression__
+><img src="https://github.com/Ryanjwoodward/Poormans_ALU/assets/48807137/56fb7192-231c-4492-afc3-4659e95ddcb9" width="400"/>
 
 ### Screenshots
 ***
@@ -87,6 +83,3 @@ __Boolean Expression__
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Project Presentation:__ https://youtu.be/rl7aGIHYdLI
 
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Brief Demo:__ https://youtu.be/80nXXKe2rMk
-
-### Truth Tables, K-maps, and Boolean Expressions
-***
